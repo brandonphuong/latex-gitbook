@@ -1,4 +1,4 @@
-Learn AngularJS
+Learn LATEX
 ======
 
 This book will teach you the basics AngularJS. Whether you are an experienced programmer or not, this book is intended for developers looking to learn AngularJSalongside of me.
