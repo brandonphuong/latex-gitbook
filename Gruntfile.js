@@ -9,10 +9,10 @@ module.exports = function (grunt) {
         'gitbook': {
             development: {
                 output: path.join(__dirname, ".grunt/gitbook"),
-                input: "./",
-                title: "Learn Javascript",
-                description: "Interactive online course for learning Javascript.",
-                github: "GitbookIO/javascript"
+                input: "./input",
+                title: "title",
+                description: "description",
+                github: "github"
             }
         },
         'gh-pages': {
